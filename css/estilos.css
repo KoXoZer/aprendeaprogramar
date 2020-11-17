@@ -1,0 +1,10 @@
+h2{
+    color:cyan;
+}
+
+h3{
+    color: blue
+}
+table, th, td {
+    border: 1px solid black;
+  }
